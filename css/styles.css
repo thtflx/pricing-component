@@ -134,9 +134,9 @@ input:checked+.slider:before {
 
 .pricing-component-bg {
     padding-top: 71px;
-    padding-bottom: 103px;
-    padding-left: 100px;
-    padding-right: 100px;
+    padding-bottom: 71px;
+    /* padding-left: 100px;
+    padding-right: 100px; */
     align-items: center;
     text-align: center;
     background-image: url("../img/bg-lines-top.png"), url("../img/bg-lines-bottom.png");
