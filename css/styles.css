@@ -133,16 +133,18 @@ input:checked+.slider:before {
 /* BG */
 
 .pricing-component-bg {
-    padding-top: 71px;
-    padding-bottom: 71px;
+    /* padding-top: 71px;
+    padding-bottom: 71px; */
     /* padding-left: 100px;
     padding-right: 100px; */
     align-items: center;
     text-align: center;
-    background-image: url("../img/bg-lines-top.png"), url("../img/bg-lines-bottom.png");
+    background-image: url("../img/bg-lines-top.png")/* , url("../img/bg-lines-bottom.png") */
+    ;
     background-repeat: no-repeat;
-    background-position: 900px 40px, -20px 600px;
-    background-color: var(--bg-color);
+    background-position: 900px 40px/* , -20px 600px */
+    ;
+    /* background-color: var(--bg-color); */
 }
 
 .pricing-component-bg-heading {
