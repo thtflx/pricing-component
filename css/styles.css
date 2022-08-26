@@ -141,7 +141,7 @@ input:checked+.slider:before {
     text-align: center;
     background-image: url("../img/bg-lines-top.png"), url("../img/bg-lines-bottom.png");
     background-repeat: no-repeat;
-    background-position: 900px 40px, -100px 700px;
+    background-position: 900px 40px, -20px 600px;
 }
 
 .pricing-component-bg-heading {
